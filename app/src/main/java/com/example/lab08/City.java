@@ -2,6 +2,7 @@ package com.example.lab08;
 
 // This is a test comment for the lab demo
 // This is another test comment
+// This is yet another test comment to test for automation of the CI tests on Github
 public class City {
     private String city;
     private String province;
